@@ -12,7 +12,7 @@
 ### Patterns: ###
 - Repository pattern
 - Command Query Responsibility Segregation (CQRS)
-- Rich Domain model
+- Rich Domain model (DDD)
 - Clean (Onion) Architecture
 - Data Transfer Objects (DTOs)
 - Mediator pattern
