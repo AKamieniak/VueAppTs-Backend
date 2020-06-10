@@ -1,6 +1,6 @@
 # WebAPI-VueAppTs
 
-Using: 
+### Using: ###
 - .NET Core 3.1.
 - Entity Framework Core 3.1.4.
 - Authentication.JwtBearer 3.1.4.
@@ -9,7 +9,7 @@ Using:
 - AutoMapper 9.0.0.
 - EF Core SqlServer Provider
 
-Patterns: 
+### Patterns: ###
 - Repository pattern
 - Command Query Responsibility Segregation (CQRS)
 - Rich Domain model
@@ -17,7 +17,7 @@ Patterns:
 - Data Transfer Objects (DTOs)
 - Mediator pattern
 
-Tools:
+### Tools: ###
 - Visual Studio 2019
 - Microsoft SQL Server Management Studio 17
 - Postman
