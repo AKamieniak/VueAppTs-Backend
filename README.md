@@ -15,6 +15,7 @@ Patterns:
 - Rich Domain model
 - Clean (Onion) Architecture
 - Data Transfer Objects (DTOs)
+- Mediator pattern
 
 Tools:
 - Visual Studio 2019
