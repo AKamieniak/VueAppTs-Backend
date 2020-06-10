@@ -15,3 +15,8 @@ Patterns:
 - Rich Domain model
 - Clean (Onion) Architecture
 - Data Transfer Objects (DTOs)
+
+Tools:
+- Visual Studio 2019
+- Microsoft SQL Server Management Studio 17
+- Postman
