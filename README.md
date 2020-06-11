@@ -1,7 +1,7 @@
 # VueAppTs-Backend
 
 ### Using: ###
-- .NET Core 3.1.
+- ASP.NET Core 3.1.
 - Entity Framework Core 3.1.4.
 - Authentication.JwtBearer 3.1.4.
 - MediatR 8.0.0.
